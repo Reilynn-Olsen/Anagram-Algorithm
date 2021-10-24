@@ -17,3 +17,4 @@ class Anagram
     w.chars.sort == word.downcase.chars.sort && w != word.downcase
   end
 end
+ 
